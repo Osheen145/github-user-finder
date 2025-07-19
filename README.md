@@ -12,5 +12,8 @@ Responsive design
 2. Click search
 3. View results below
 
+ 
 
-Live Link: 
+
+## Live Link  :  [Click here to view live project](https://leafy-sfogliatella-a82933.netlify.app)
+
